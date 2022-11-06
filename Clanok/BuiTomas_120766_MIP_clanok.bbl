@@ -1,13 +1,33 @@
 \begin{thebibliography}{1}
 
+\bibitem{gao2022nature:arcade}
+Yuexian Gao, Chang Liu, Naying Gao, Mohd Nor~Akmal Khalid, and Hiroyuki Iida.
+\newblock Nature of arcade games.
+\newblock {\em Entertainment Computing}, 41, 2022.
+
 \bibitem{Graham:LBCI}
 Lawrence~D. Graham.
 \newblock {\em Legal battles that shaped the computer industry}.
 \newblock Greenwood Publishing Group, 1999.
 
+\bibitem{mayra2020mobile:mob}
+Frans Mayra and Kati Alha.
+\newblock Mobile gaming.
+\newblock In {\em The Video Game Debate 2}, pages 107--120. Routledge, 2020.
+
 \bibitem{osathanunkul2015classification:business}
 Chin Osathanunkul.
 \newblock A classification of business models in video game industry.
 \newblock {\em International Journal of Management Cases}, 17(1):35--44, 2015.
+
+\bibitem{IGN:WOW}
+Jim Reilly.
+\newblock World of warcraft reaches 12 million subscribers.
+\newblock {\em IGN}, October 2010.
+
+\bibitem{tomic2018economic:micro}
+Nenad~Zoran Tomi{\'c}.
+\newblock Economic model of microtransactions in video games.
+\newblock {\em J. Econ. Sci. Res. Vol}, 1(01), 2018.
 
 \end{thebibliography}

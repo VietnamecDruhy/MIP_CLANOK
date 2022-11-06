@@ -5,48 +5,44 @@ Reallocating 'name_of_file' (item size: 1) to 11 items.
 Reallocating 'name_of_file' (item size: 1) to 6 items.
 The style file: plain.bst
 Database file #1: references.bib
-Warning--I didn't find a database entry for "Czarnecki:Staged"
-Warning--I didn't find a database entry for "Czarnecki:Progress"
-Warning--I didn't find a database entry for "PLP-Framework"
-You've used 2 entries,
+You've used 6 entries,
             2118 wiz_defined-function locations,
-            516 strings with 4414 characters,
-and the built_in function-call counts, 516 in all, are:
-= -- 49
-> -- 14
-< -- 0
-+ -- 7
-- -- 4
-* -- 30
-:= -- 94
-add.period$ -- 6
-call.type$ -- 2
-change.case$ -- 7
+            536 strings with 4793 characters,
+and the built_in function-call counts, 1738 in all, are:
+= -- 172
+> -- 69
+< -- 1
++ -- 29
+- -- 22
+* -- 103
+:= -- 302
+add.period$ -- 19
+call.type$ -- 6
+change.case$ -- 28
 chr.to.int$ -- 0
-cite$ -- 2
-duplicate$ -- 23
-empty$ -- 48
-format.name$ -- 4
-if$ -- 104
+cite$ -- 6
+duplicate$ -- 77
+empty$ -- 141
+format.name$ -- 22
+if$ -- 363
 int.to.chr$ -- 0
-int.to.str$ -- 2
-missing$ -- 3
-newline$ -- 13
-num.names$ -- 4
-pop$ -- 10
+int.to.str$ -- 6
+missing$ -- 7
+newline$ -- 33
+num.names$ -- 12
+pop$ -- 30
 preamble$ -- 1
-purify$ -- 6
+purify$ -- 23
 quote$ -- 0
-skip$ -- 13
+skip$ -- 55
 stack$ -- 0
-substring$ -- 30
-swap$ -- 2
-text.length$ -- 0
+substring$ -- 82
+swap$ -- 15
+text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 6
+type$ -- 22
 warning$ -- 0
-while$ -- 6
-width$ -- 3
-write$ -- 23
-(There were 3 warnings)
+while$ -- 17
+width$ -- 7
+write$ -- 67

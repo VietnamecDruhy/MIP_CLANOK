@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.10.4)  6 NOV 2022 13:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.10.4)  6 NOV 2022 20:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -273,26 +273,26 @@ File: l3backend-pdftex.def 2022-07-01 L3 backend support: PDF output (pdfTeX)
 ) (BuiTomas_120766_MIP_clanok.aux)
 \openout1 = `BuiTomas_120766_MIP_clanok.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for IL2/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for IL2/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
 
 (C:\Users\buian\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
@@ -319,29 +319,29 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 30.
+Package hyperref Info: Link coloring OFF on input line 29.
  (BuiTomas_120766_MIP_clanok.out) (BuiTomas_120766_MIP_clanok.out)
 \@outlinefile=\write3
 \openout3 = `BuiTomas_120766_MIP_clanok.out'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <17.28> on input line 33.
+(Font)              <17.28> on input line 32.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 33.
+(Font)              <12> on input line 32.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 33.
+(Font)              <8> on input line 32.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 33.
+(Font)              <6> on input line 32.
 LaTeX Font Info:    Trying to load font information for IL2+cmtt on input line 
-33.
+32.
 
 (C:\Users\buian\AppData\Local\Programs\MiKTeX\tex/cslatex/base\il2cmtt.fd
 File: il2cmtt.fd 1997/08/20 CSLaTeX font definitions
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 33.
+(Font)              <9> on input line 32.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 33.
+(Font)              <5> on input line 32.
 
 [1
 
@@ -350,32 +350,38 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.41 \end{abstract}
+l.40 \end{abstract}
                     [1]
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.68 
+l.67 
       [1]
-Overfull \hbox (1.69498pt too wide) in paragraph at lines 78--79
+Overfull \hbox (1.69498pt too wide) in paragraph at lines 77--78
 \IL2/cmr/m/n/10 Accessibility has a di-rect im-pact on the pri-mary source of r
 ev-enue, which changed
  []
 
-[2] (BuiTomas_120766_MIP_clanok.bbl) [3] (BuiTomas_120766_MIP_clanok.aux)
+[2] [3] [4]
+Overfull \hbox (8.27841pt too wide) in paragraph at lines 145--146
+[]\IL2/cmr/m/n/10 Lastly, mo-bile games are dis-cussed, their break-through and
+ re-mark-able growth,
+ []
+
+(BuiTomas_120766_MIP_clanok.bbl) [5] (BuiTomas_120766_MIP_clanok.aux)
 Package rerunfilecheck Info: File `BuiTomas_120766_MIP_clanok.out' has not chan
 ged.
-(rerunfilecheck)             Checksum: 47B84415E84085C93A699FEC0797D632;1605.
+(rerunfilecheck)             Checksum: B3B70EBC110BF95A1A4B9DFE8273C141;1851.
  ) 
 Here is how much of TeX's memory you used:
- 9690 strings out of 478338
- 157443 string characters out of 2836700
- 468386 words of memory out of 3000000
- 27959 multiletter control sequences out of 15000+600000
+ 9693 strings out of 478338
+ 157562 string characters out of 2836700
+ 469291 words of memory out of 3000000
+ 27960 multiletter control sequences out of 15000+600000
  480822 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,7n,77p,1191b,538s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,7n,77p,1386b,538s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\buian\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\c
 sti10.pk> <C:\Users\buian\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi6
 00\tcrm1000.pk> <C:\Users\buian\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csf
@@ -389,9 +395,9 @@ Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cstt9.pk> <C:\Users\buian\Ap
 pData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr9.pk> <C:\Users\bui
 an\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr12.pk> <C:\Use
 rs\buian\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr17.pk>
-Output written on BuiTomas_120766_MIP_clanok.pdf (5 pages, 130053 bytes).
+Output written on BuiTomas_120766_MIP_clanok.pdf (7 pages, 133198 bytes).
 PDF statistics:
- 446 PDF objects out of 1000 (max. 8388607)
- 26 named destinations out of 1000 (max. 500000)
- 73 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 454 PDF objects out of 1000 (max. 8388607)
+ 28 named destinations out of 1000 (max. 500000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
 
