@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.10.4)  8 NOV 2022 11:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.10.4)  5 DEC 2022 14:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -356,48 +356,66 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.67 
+l.66 
       [1]
-Overfull \hbox (1.69498pt too wide) in paragraph at lines 77--78
+Overfull \hbox (1.69498pt too wide) in paragraph at lines 91--92
 \IL2/cmr/m/n/10 Accessibility has a di-rect im-pact on the pri-mary source of r
 ev-enue, which changed
  []
 
 [2] [3] [4]
-Overfull \hbox (8.27841pt too wide) in paragraph at lines 153--154
+Overfull \hbox (8.27841pt too wide) in paragraph at lines 169--170
 []\IL2/cmr/m/n/10 Lastly, mo-bile games are dis-cussed, their break-through and
  re-mark-able growth,
  []
 
-(BuiTomas_120766_MIP_clanok.bbl) [5] (BuiTomas_120766_MIP_clanok.aux)
-Package rerunfilecheck Info: File `BuiTomas_120766_MIP_clanok.out' has not chan
-ged.
-(rerunfilecheck)             Checksum: B3B70EBC110BF95A1A4B9DFE8273C141;1851.
+(BuiTomas_120766_MIP_clanok.bbl [5]) [6] (BuiTomas_120766_MIP_clanok.aux)
+
+Package rerunfilecheck Warning: File `BuiTomas_120766_MIP_clanok.out' has chang
+ed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `BuiTomas_120766_MIP_clanok.out':
+(rerunfilecheck)             Before: 645EF7F9C7B4EDEA591941EDB070AEC4;1983
+(rerunfilecheck)             After:  6118F85C00B75536DBCDAC2146D74B4A;2082.
  ) 
 Here is how much of TeX's memory you used:
- 9693 strings out of 478338
- 157562 string characters out of 2836700
- 469291 words of memory out of 3000000
- 27960 multiletter control sequences out of 15000+600000
+ 9700 strings out of 478338
+ 157639 string characters out of 2836700
+ 470291 words of memory out of 3000000
+ 27961 multiletter control sequences out of 15000+600000
  480822 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,7n,77p,1386b,538s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\buian\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\c
-sti10.pk> <C:\Users\buian\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi6
-00\tcrm1000.pk> <C:\Users\buian\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csf
-onts/dpi600\csbx12.pk> <C:\Users\buian\AppData\Local\MiKTeX\fonts/pk/ljfour/pub
-lic/csfonts/dpi720\csbx12.pk> <C:\Users\buian\AppData\Local\MiKTeX\fonts/pk/ljf
-our/public/csfonts/dpi600\cssl10.pk> <C:\Users\buian\AppData\Local\MiKTeX\fonts
-/pk/ljfour/public/csfonts/dpi600\csr10.pk> <C:\Users\buian\AppData\Local\MiKTeX
-\fonts/pk/ljfour/public/csfonts/dpi600\csbx10.pk> <C:\Users\buian\AppData\Local
-\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr6.pk> <C:\Users\buian\AppData\
-Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cstt9.pk> <C:\Users\buian\Ap
-pData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr9.pk> <C:\Users\bui
-an\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr12.pk> <C:\Use
-rs\buian\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr17.pk>
-Output written on BuiTomas_120766_MIP_clanok.pdf (7 pages, 134344 bytes).
+ 72i,7n,77p,1386b,515s stack positions out of 10000i,1000n,20000p,200000b,80000s
+
+pdfTeX warning (dest): name{subsection.5.2} has been referenced but does not ex
+ist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.5.1} has been referenced but does not ex
+ist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.3.1} has been referenced but does not ex
+ist, replaced by a fixed one
+
+ <C:\Users\buian\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cst
+i10.pk> <C:\Users\buian\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600
+\tcrm1000.pk> <C:\Users\buian\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfon
+ts/dpi600\csbx12.pk> <C:\Users\buian\AppData\Local\MiKTeX\fonts/pk/ljfour/publi
+c/csfonts/dpi720\csbx12.pk> <C:\Users\buian\AppData\Local\MiKTeX\fonts/pk/ljfou
+r/public/csfonts/dpi600\cssl10.pk> <C:\Users\buian\AppData\Local\MiKTeX\fonts/p
+k/ljfour/public/csfonts/dpi600\csr10.pk> <C:\Users\buian\AppData\Local\MiKTeX\f
+onts/pk/ljfour/public/csfonts/dpi600\csbx10.pk> <C:\Users\buian\AppData\Local\M
+iKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr6.pk> <C:\Users\buian\AppData\Lo
+cal\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cstt9.pk> <C:\Users\buian\AppD
+ata\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr9.pk> <C:\Users\buian
+\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr12.pk> <C:\Users
+\buian\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr17.pk>
+Output written on BuiTomas_120766_MIP_clanok.pdf (8 pages, 138950 bytes).
 PDF statistics:
- 455 PDF objects out of 1000 (max. 8388607)
- 28 named destinations out of 1000 (max. 500000)
- 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 472 PDF objects out of 1000 (max. 8388607)
+ 34 named destinations out of 1000 (max. 500000)
+ 89 words of extra memory for PDF output out of 10000 (max. 10000000)
 
